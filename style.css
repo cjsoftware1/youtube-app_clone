@@ -1,0 +1,82 @@
+body {
+    font-size: 15pt;
+}
+
+.lock {
+  display: block;
+  margin-bottom: 40px;
+}
+
+.container {
+  background-color: slategrey;
+  width: 400px;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 3px;
+}
+
+.okay,
+.okay-email,
+button {
+  margin: 10px;
+  border: none;
+}
+  
+
+.okay {
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.okay-email {
+  padding: 10px;
+  border-radius: 5px;
+  width: 354px;
+}
+
+.btn-normal {
+ padding: 10px;
+ border-radius: 5px;
+ display: block;
+ text-align: center;
+ width: 375px;
+ font-size: 20px;
+ border: none;
+ background-color: royalblue;
+ color: white;
+}
+
+.container1 {
+  padding-left: 10px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.is {
+  margin-left: 10px;
+}
+
+.yes {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: solid;
+}
+
+.yes-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: solid;
+  margin-left: -4px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50px;
+}
